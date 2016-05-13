@@ -30,4 +30,6 @@ there is no valid path for the remaining pairs.
 
 ## Interface 
 
-comming soon
+![demo](https://raw.githubusercontent.com/Iulian-Stan/ExploringAgent/721234a34684fcb1fa6bb79461e41307f9ea9376/demo.PNG)
+
+The screen is split into the entire map (left), and the explored one (right).
